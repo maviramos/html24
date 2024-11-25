@@ -1,0 +1,4 @@
+Passarinho;0.015;C:\Users\USUARIO\PY\imagem\passarinho.jpg
+Pimguim;22;C:\Users\USUARIO\PY\imagem\pinguinho.bmp
+Elefante;1200.45;C:\Users\USUARIO\PY\imagem\elefanta.jpg
+Tigre;12.701;C:\Users\USUARIO\PY\imagem\trigrinho.bmp
